@@ -1,0 +1,17 @@
+[
+	{
+		"id": "selection",
+		"children":
+		[
+			{
+				"caption": "Multi-Highlight",
+				"id": "multihighlight",
+				"children":
+				[
+					{ "command": "multi_highlight" },
+					{ "command": "no_multi_highlight" }
+				]
+			}
+		]
+	}
+]

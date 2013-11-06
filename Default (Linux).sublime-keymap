@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+f8"], "command": "multi_highlight" },
+	{ "keys": ["ctrl+shift+f8"], "command": "no_multi_highlight" }
+]
